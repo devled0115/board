@@ -1,4 +1,2 @@
 # board
 testboard
-ttttttt
-asdad
